@@ -2,10 +2,11 @@
 
 # Portfolio
 ## Sobre mí
-La sección **"Sobre mí"** es un extracto que se incluiremos al principio del Portfolio, para describir quién eres y cuáles son tus principales habilidades y aspiraciones, con el objetivo de capturar la atención de posibles reclutadores que podrían interesarse en ti. Puedes utilizar la misma de tu perfil en [LinkedIn](https://www.linkedin.com/) o tu CV.
+Me llamo Delfina Rodríguez, tengo 24 años y soy estudiante de comunicación pero apasionada en el área IT.
+Me gusta aprender y afrontar nuevos desafíos.
+[LinkedIn](https://www.linkedin.com/in/delfina-rodriguez-a41445253/)
 
 ## Cursos
-Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Por ejemplo:
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
@@ -15,19 +16,15 @@ Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Po
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
   
 ## Herramientas
-Puedes comentar algunas de las herramientas que manejas vinculadas al testing de software. Por ejemplo:
-* Testlink
-* Jira
-* MantisBT
 
-## Libros
-Puedes comentar algunos libros que has leído, que suman a tu formación en Testing y TI. Por ejemplo:
-* Introducción a las Pruebas de Sistemas de Información - Federico Toledo
+* Jira
+* Reporte de incidentes con GitHub
 
 ## Mi trabajo
 Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las diferentes entregas del taller, o trabajos de testing que hayas desarrollado por tu cuenta. Por ejemplo:
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i)
-  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
+  * [Especificación de requerimientos](https://drive.google.com/file/d/1K8_mHOXb3gJquuCmF-9APEcAubNOliXx/view?usp=sharing)
+  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1Y1ttlFS-dI2svDl4PVXaLrcgdKyWm3cr/edit?usp=sharing&ouid=103034878235768917190&rtpof=true&sd=true)
+  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/13Uyg7zY0K7Msv1DiV-hISn3bDEo06saf/edit?usp=sharing&ouid=103034878235768917190&rtpof=true&sd=true)
+  * [Informe de pruebas](https://drive.google.com/file/d/1keL67KGLMmQyKB6igooAQDUus-k1T1aY/view?usp=sharing)
