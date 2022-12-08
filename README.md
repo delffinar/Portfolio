@@ -2,8 +2,12 @@
 
 # Portfolio
 ## Sobre mí
-Me llamo Delfina Rodríguez, tengo 24 años y soy estudiante de comunicación pero apasionada en el área IT.
-Me gusta aprender y afrontar nuevos desafíos.
+
+Me llamo Delfina Rodriguez, tengo 24 años y soy de Montevideo, Uruguay.
+
+Soy estudiante de comunicación, y tester certificada bajo el programa de "Jóvenes a Programar", donde descubrí mi pasión por el área IT. Me gusta mucho aprender y afrontar nuevos retos. Soy responsable y también muy dedicada, tengo experiencia liderando equipos y trabajando bajo presión.
+
+Estoy en busca de mi primera experiencia laboral en el área IT que tanto me gusta, buscando volcar los conocimientos que he desarrollado durante mi formación.
 [LinkedIn](https://www.linkedin.com/in/delfina-rodriguez-a41445253/)
 
 ## Cursos
