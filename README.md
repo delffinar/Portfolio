@@ -1,6 +1,5 @@
 # Portfolio
 
-# Portfolio
 ## Sobre mí
 
 Me llamo Delfina Rodriguez, tengo 24 años y soy de Montevideo, Uruguay.
