@@ -37,7 +37,6 @@ Por otro lado, tuve la oportunidad de participar en una pasantía con "UpCamp", 
 
 * [Digital Bank, sitio de capacitación](http://digitalbank.upcamp.io/bank/login):
 * **Sesiones de Testing Exploratorio:**
-  
   *["Withdraw"](https://drive.google.com/file/d/13OjRmW53oGWGtJ5jWCIsHzYnrWRFBpyP/view?usp=sharing)
   *["Deposit"](https://drive.google.com/file/d/1aryKOvjYUVn7uBhMVvCkEQwYC70XRnWE/view?usp=sharing)
   *["Home"](https://drive.google.com/file/d/14S6M6kclcd5g_O-UHVYbofr6BHQbLD_c/view?usp=sharing)
