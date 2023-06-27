@@ -36,9 +36,10 @@ Aqui presento un poco del trabajo final realizado en Jovenes a Programar, en el 
 Por otro lado, tuve la oportunidad de participar en una pasantía con "UpCamp", donde me desempeñe como QA Manual, practicando metodologias agiles, trabajo en equipo y conocimientos adquiridos anteriormente
 
 * [Digital Bank, sitio de capacitación](http://digitalbank.upcamp.io/bank/login):
-  *Sesions de Testing Exploratorio:
+* **Sesiones de Testing Exploratorio:**
   
-  ["Withdraw"](https://drive.google.com/file/d/13OjRmW53oGWGtJ5jWCIsHzYnrWRFBpyP/view?usp=sharing)
-  ["Deposit"](https://drive.google.com/file/d/1aryKOvjYUVn7uBhMVvCkEQwYC70XRnWE/view?usp=sharing)
-  ["Home"](https://drive.google.com/file/d/14S6M6kclcd5g_O-UHVYbofr6BHQbLD_c/view?usp=sharing)
-  * [Informe final de pruebas](https://drive.google.com/file/d/1JGyS3JshAVLc-HRutoaryz2ktlO1M249/view?usp=sharing)
+  *["Withdraw"](https://drive.google.com/file/d/13OjRmW53oGWGtJ5jWCIsHzYnrWRFBpyP/view?usp=sharing)
+  *["Deposit"](https://drive.google.com/file/d/1aryKOvjYUVn7uBhMVvCkEQwYC70XRnWE/view?usp=sharing)
+  *["Home"](https://drive.google.com/file/d/14S6M6kclcd5g_O-UHVYbofr6BHQbLD_c/view?usp=sharing)
+
+* [Informe final de pruebas](https://drive.google.com/file/d/1JGyS3JshAVLc-HRutoaryz2ktlO1M249/view?usp=sharing)
